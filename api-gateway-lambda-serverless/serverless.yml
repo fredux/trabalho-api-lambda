@@ -36,6 +36,6 @@ functions:
     events:
       - http:
           path: cliente/{codigo}
-          method: delete
+          method: post
           cors: true
 
