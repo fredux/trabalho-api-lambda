@@ -82,7 +82,7 @@ layers:
 
 ## Uso
 
-Podemos criare, deletar e encontrar um item por codigo. Segue os commandos:
+Podemos criar, deletar e encontrar um item por codigo. Segue os commandos:
 
  Criar 
 
@@ -106,7 +106,7 @@ Retorno esperado:
 
 Excluir um item 
 ```bash
-curl -X POST https://XXXXXXX.execute-api.us-east-1.amazonaws.com/dev/cliente/<id> 
+curl -X POST https://XXXXXXX.execute-api.us-east-1.amazonaws.com/dev/cliente/<codigo> 
 ```
 
  10 - Destruindo 
